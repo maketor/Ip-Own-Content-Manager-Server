@@ -1,0 +1,9 @@
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\bin\Debug\Mi Ip Global Servidor Content Manager.exe
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\bin\Debug\Mi Ip Global Servidor Content Manager.pdb
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi Ip Global Servidor Content Manager.csprojAssemblyReference.cache
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi_Ip_Global_Servidor_Content_Manager.Form1.resources
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi_Ip_Global_Servidor_Content_Manager.Properties.Resources.resources
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi Ip Global Servidor Content Manager.csproj.GenerateResource.cache
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi Ip Global Servidor Content Manager.csproj.CoreCompileInputs.cache
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi Ip Global Servidor Content Manager.exe
+C:\Users\xhago\source\repos\Mi Ip Global Servidor Content Manager\obj\Debug\Mi Ip Global Servidor Content Manager.pdb
